@@ -26,7 +26,7 @@ st.write(
 # LOAD DATASET
 # ==========================================
 
-data = pd.read_csv("../dataset/Advertising Budget and Sales.csv")
+data = pd.read_csv("dataset/Advertising Budget and Sales.csv")
 
 # ==========================================
 # SIDEBAR MENU
